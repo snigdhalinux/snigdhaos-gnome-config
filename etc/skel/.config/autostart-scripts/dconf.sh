@@ -2,4 +2,4 @@
 dconf load / < ~/.config/snigdhaos-dconf.ini
 rm -f ~/.config/snigdhaos-dconf.ini ~/.config/autostart-scripts/dconf.sh &
  
-notify-send "Snigdha OS Gnome Config Applied... 🔥"
+notify-send "Snigdha OS Gnome Config 2.0 Applied... 🔥"
